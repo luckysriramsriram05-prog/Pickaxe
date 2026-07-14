@@ -1,0 +1,27 @@
+# gradle
+.gradle/
+build/
+out/
+
+# idea
+.idea/
+.idea_modules/
+*.iml
+*.ipr
+*.iws
+
+# vscode
+.vscode/
+*.code-workspace
+
+# mac
+.DS_Store
+
+# python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# other
+*.log
+*.class
